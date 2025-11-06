@@ -1,3 +1,6 @@
+/*REG NO:CT101/G/26559/25
+  NAME:KAGWIRIA ELVIN MACHARIA
+  */
 #include <stdio.h>
 
 int main(){
